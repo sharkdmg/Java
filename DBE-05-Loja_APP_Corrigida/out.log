@@ -1,0 +1,11 @@
+2019-02-19 22:23:13 DEBUG TerminalConsulta:19 - Inicio Aplicação
+2019-02-19 22:23:35 DEBUG TerminalConsulta:19 - Inicio Aplicação
+2019-02-19 22:23:40 DEBUG TerminalConsulta:15 - Iniciando consulta: 405
+2019-02-19 22:23:40 ERROR TerminalConsulta:28 - Produto não encontrado
+2019-02-19 22:25:13 TRACE TerminalConsulta:19 - Inicio Aplicação
+2019-02-19 22:25:15 TRACE TerminalConsulta:45 - Fim Aplicação
+2019-02-19 22:26:02 TRACE TerminalConsulta:19 - Inicio Aplicação
+2019-02-19 22:26:05 DEBUG TerminalConsulta:15 - Iniciando consulta: 401
+2019-02-19 22:26:11 DEBUG TerminalConsulta:15 - Iniciando consulta: 408
+2019-02-19 22:26:11 ERROR TerminalConsulta:28 - Produto não encontrado
+2019-02-19 22:26:15 TRACE TerminalConsulta:45 - Fim Aplicação

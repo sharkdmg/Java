@@ -1,0 +1,12 @@
+Start Repository
+git init
+git config --global http.sslVerify false
+git clone http://github.com/sharkdmg/Java.git
+git remote add origin http://github.com/sharkdmg/Java.git
+-----------------------------------------------------------
+Save Repository
+git status
+git add <nome do arquivo/pasta>
+git add -a
+git commit -a -m <mensagem>
+git push -f origin master
